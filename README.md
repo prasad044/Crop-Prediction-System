@@ -1,5 +1,5 @@
 # Crop-Prediction-System
-(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.quora.com%2FWhat-are-the-types-of-crops-of-Bihar&psig=AOvVaw0rc06gx7X6wHePwgz1ZjaE&ust=1704105306636000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCJqJC9uYMDFQAAAAAdAAAAABAD)
+![image](https://github.com/prasad044/Crop-Prediction-System/assets/65522909/33cc3227-f0d4-46cf-b563-56d228bbb4eb)
 
 **📱This notebook includes the following:**
 
